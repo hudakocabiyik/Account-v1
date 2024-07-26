@@ -30,5 +30,5 @@ Account-v1, mevcut müşteriler için yeni bir "cari hesap" açmak üzere kullan
 
 Proje dosyalarını klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/Account-v1.git
+git clone https://github.com/hudakocabiyik/Account-v1.git
 cd Account-v1
