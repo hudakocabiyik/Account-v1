@@ -8,7 +8,7 @@ Bu proje, Spring Boot kullanılarak geliştirilmiş bir hesap yönetimi mikro se
 - **Hata Yönetimi:** Geçersiz istekler ve bulunamayan müşteriler gibi hataları uygun HTTP durum kodlarıyla yönetme.
 - **Veri Doğrulama:** İstek verilerinin doğruluğunu kontrol etme ve geçersiz verileri reddetme.
 - **Test Kapsamı:** Birim testler ve entegrasyon testleri ile kodun işlevselliğini doğrulama.
-##Teknolojiler
+## Teknolojiler
 - **Spring Boot:** Java tabanlı mikro servis geliştirme için popüler bir framework.
 - **Spring Data JPA:** Veritabanı işlemlerini kolaylaştıran bir ORM (Object-Relational Mapping) aracı.
 - **H2 Database:** Hafızada çalışan, geliştirme ve test amaçlı kullanılan bir ilişkisel veritabanı.
